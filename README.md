@@ -51,7 +51,6 @@ src/
 
 ![image](https://github.com/user-attachments/assets/ffbcf2f8-1714-41d7-8ed8-16de46b2fc81)
 
-+------------------------+        +---------------------------+
 
 ## ✅ Considerações Finais
 
