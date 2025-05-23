@@ -71,4 +71,5 @@ separando a lógica de domínio, regras de negócio e interação com o usuário
 
 Isso confere ao sistema uma estrutura clara, escalável e de fácil entendimento,  
 mesmo para outros desenvolvedores que venham a analisá-lo posteriormente.
+
 ---
