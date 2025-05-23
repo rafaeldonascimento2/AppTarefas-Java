@@ -68,6 +68,7 @@ mas cumprisse um papel real dentro da lógica do sistema.
 
 Além dos padrões em si, a organização do projeto seguiu o modelo de Arquitetura em Camadas (Layered Architecture),  
 separando a lógica de domínio, regras de negócio e interação com o usuário em pacotes distintos.  
+
 Isso confere ao sistema uma estrutura clara, escalável e de fácil entendimento,  
 mesmo para outros desenvolvedores que venham a analisá-lo posteriormente.
 ---
