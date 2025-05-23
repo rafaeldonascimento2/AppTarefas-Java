@@ -51,13 +51,23 @@ src/
 
 ![image](https://github.com/user-attachments/assets/ffbcf2f8-1714-41d7-8ed8-16de46b2fc81)
 
-------------------+        +---------------------------+
----
++------------------------+        +---------------------------+
 
 ## ✅ Considerações Finais
 
-    O desenvolvimento deste projeto teve como principal objetivo a aplicação prática de padrões de projeto em um sistema funcional, de forma coerente, compreensível e contextualizada. 
-    A escolha por um aplicativo de tarefas (ToDo List) foi motivada por sua simplicidade estrutural, mas com potencial de demonstrar conceitos profundos de orientação a objetos,como modularização, encapsulamento de responsabilidades e baixo acoplamento. A implementação dos padrões foi cuidadosamente planejada para que cada um deles não apenas existisse no código, mas cumprisse um papel real dentro da lógica do sistema.
-    Além dos padrões em si, a organização do projeto seguiu o modelo de Arquitetura em Camadas (Layered Architecture), separando a lógica de domínio, regras de negócio e interação com o usuárioem pacotes distintos. Isso confere ao sistema uma estrutura clara, escalável e de fácil entendimento,mesmo para outros desenvolvedores que venham a analisá-lo posteriormente.
 
+O desenvolvimento deste projeto teve como principal objetivo a aplicação prática de padrões de projeto em um sistema funcional,  
+de forma coerente, compreensível e contextualizada.  
+
+A escolha por um aplicativo de tarefas (ToDo List) foi motivada por sua simplicidade estrutural,  
+mas com potencial de demonstrar conceitos profundos de orientação a objetos,  
+como modularização, encapsulamento de responsabilidades e baixo acoplamento.  
+
+A implementação dos padrões foi cuidadosamente planejada para que cada um deles não apenas existisse no código,  
+mas cumprisse um papel real dentro da lógica do sistema.  
+
+Além dos padrões em si, a organização do projeto seguiu o modelo de Arquitetura em Camadas (Layered Architecture),  
+separando a lógica de domínio, regras de negócio e interação com o usuário em pacotes distintos.  
+Isso confere ao sistema uma estrutura clara, escalável e de fácil entendimento,  
+mesmo para outros desenvolvedores que venham a analisá-lo posteriormente.
 ---
