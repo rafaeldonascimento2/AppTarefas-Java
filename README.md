@@ -1,5 +1,12 @@
 # Aplicativo de Tarefas (ToDo List)
 
+Gabriel Carvalheiro Ruela - 837871
+Marcele Eduarda Mrofka Rufino - 838703
+Maria Carolina de Souza B. - 838467
+Guilherme belotti machado luiz- 838820
+Rafael do Nascimento- 838776
+Isa Marostegan Bertocco- 838824
+
 ## 📌 Tema escolhido
 
 Desenvolvimento de um aplicativo de tarefas simples (ToDo List), que permite ao usuário:
